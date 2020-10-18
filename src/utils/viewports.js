@@ -1,0 +1,1 @@
+export const VIEWPORTS = { DESKTOP: 1087 };
